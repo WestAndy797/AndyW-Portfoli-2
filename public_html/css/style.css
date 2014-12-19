@@ -1,3 +1,7 @@
+.jumbotron {
+    background-color: darkcyan;
+    padding: 0px
+}
 div  {
     border-style: hidden;
         border-width: 5px;
